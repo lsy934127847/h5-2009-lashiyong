@@ -1,0 +1,12 @@
+   使用说明
+
+请先按照如下说明，进行操作
+
+共需创建三个数据库
+
+1.进入php目录下的model目录创建数据库myshop和表cart
+
+2.进入php目录下的model_big目录创建数据库product和表product_list,并执行adddata.php插入假数据<
+
+
+3.进入php目录下的model_user目录创建数据库user和表user_list
